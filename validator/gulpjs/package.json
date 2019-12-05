@@ -20,7 +20,7 @@
     "url": "https://github.com/ampproject/amphtml/tree/master/validator/gulpjs"
   },
   "dependencies": {
-    "amphtml-validator": "1.0.23",
+    "amphtml-validator": "1.0.29",
     "through2": "^2.0.1"
   },
   "devDependencies": {
